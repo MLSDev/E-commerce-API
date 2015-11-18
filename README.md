@@ -1,4 +1,4 @@
-# API-for-an-Ecommerce-Website-with-Ruby-on-Rails
+# E-commerce API
 
 
 ### Technologies
@@ -25,7 +25,7 @@ This work is licensed under a MIT License.
 
 [<img src="/mlsdev-logo.png" alt="MLSDev.com">][mlsdev]
 
-API-for-an-Ecommerce-Website-with-Ruby-on-Rails are maintained by MLSDev, Inc. We specialize in providing all-in-one solution in mobile and web development. Our team follows Lean principles and works according to agile methodologies to deliver the best results reducing the budget for development and its timeline. 
+E-commerce API are maintained by MLSDev, Inc. We specialize in providing all-in-one solution in mobile and web development. Our team follows Lean principles and works according to agile methodologies to deliver the best results reducing the budget for development and its timeline. 
 
 Find out more [here][mlsdev] and don't hesitate to [contact us][contact]!
 
