@@ -5,6 +5,7 @@ The tutorial consists of the following parts so far:
 1. [Creating products][part 1]
 2. [Product search with Full Text Search in PostgreSQL][part 2]
 3. To be continued...
+
 ----
 
 ### Technologies
