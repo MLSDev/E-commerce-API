@@ -1,7 +1,7 @@
 class Api::ProductsController < ApplicationController
   private
   def collection
-    @products ||= Product.all
+    @products ||= Product.search_by(params)
   end
 
   def resource

@@ -5,9 +5,12 @@ gem 'pg'
 gem 'jquery-rails'
 gem 'bcrypt'
 gem 'draper'
+gem 'kaminari'
+gem 'pg_search'
 
 group :development, :test do
   gem 'rspec-rails'
+  gem 'faker'
 end
 
 group :test do
