@@ -6,7 +6,8 @@ The tutorial consists of the following parts so far:
 
 1. [Creating products][part 1]
 2. [Product search with Full Text Search in PostgreSQL][part 2]
-3. To be continued...
+3. [Registration and Authorization][part 3]
+4. To be continued...
 
 ----
 
@@ -42,3 +43,4 @@ Find out more [here][mlsdev] and don't hesitate to [contact us][contact]!
 [contact]: http://mlsdev.com/contact_us
 [part 1]: http://mlsdev.com/blog/42
 [part 2]: http://mlsdev.com/blog/43
+[part 3]: http://mlsdev.com/blog/44

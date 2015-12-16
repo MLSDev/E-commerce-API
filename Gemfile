@@ -7,6 +7,7 @@ gem 'bcrypt'
 gem 'draper'
 gem 'kaminari'
 gem 'pg_search'
+gem 'email_validator'
 
 group :development, :test do
   gem 'rspec-rails'

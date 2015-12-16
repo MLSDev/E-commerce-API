@@ -45,6 +45,8 @@ GEM
       activemodel (>= 3.0)
       activesupport (>= 3.0)
       request_store (~> 1.0)
+    email_validator (1.6.0)
+      activemodel
     erubis (2.7.0)
     faker (1.5.0)
       i18n (~> 0.5)
@@ -145,6 +147,7 @@ PLATFORMS
 DEPENDENCIES
   bcrypt
   draper
+  email_validator
   faker
   jquery-rails
   kaminari
